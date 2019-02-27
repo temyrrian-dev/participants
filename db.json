@@ -1,70 +1,70 @@
 {
   "ru":[
     {
-      "name":"Анатолий Вассерман",
-      "amount":"шутки за 100"
+      "name":"webmaster1",
+      "amount":"$8"
     },
     {
-      "name":"qsdfsf",
-      "amount":"30"
+      "name":"webmaster2",
+      "amount":"$7"
     },
     {
-      "name":"xzczxc",
-      "amount":"4000"
+      "name":"webmaster3",
+      "amount":"$6"
     },
     {
-      "name":"ipoipoio",
-      "amount":"5000324234"
+      "name":"webmaster4",
+      "amount":"$5"
     },
     {
-      "name":"qwerty",
-      "amount":"20"
+      "name":"webmaster5",
+      "amount":"$4"
     },
     {
-      "name":"qsdfsf",
-      "amount":"30"
+      "name":"webmaster6",
+      "amount":"$3"
     },
     {
-      "name":"xzczxc",
-      "amount":"4000"
+      "name":"webmaster7",
+      "amount":"$2"
     },
     {
-      "name":"ipoipoio",
-      "amount":"5000324234"
+      "name":"webmaster8",
+      "amount":"$1"
     }
   ],
   "ua":[
     {
-      "name":"asdasd",
-      "amount":"20"
+      "name":"webmaster1",
+      "amount":"8"
     },
     {
-      "name":"xzczxc",
-      "amount":"30"
+      "name":"webmaster2",
+      "amount":"7"
     },
     {
-      "name":"fghgfg",
-      "amount":"4000"
+      "name":"webmaster3",
+      "amount":"6"
     },
     {
-      "name":"tyutyu",
-      "amount":"5000324234"
+      "name":"webmaster4",
+      "amount":"5"
     },
     {
-      "name":"12312qwdaszx",
-      "amount":"20"
+      "name":"webmaster5",
+      "amount":"4"
     },
     {
-      "name":"werpip",
-      "amount":"30"
+      "name":"webmaster6",
+      "amount":"3"
     },
     {
-      "name":"asdasd",
-      "amount":"4000"
+      "name":"webmaster7",
+      "amount":"2"
     },
     {
-      "name":"xzczcc",
-      "amount":"5000324234"
+      "name":"webmaster8",
+      "amount":"1"
     }
   ]
 }
