@@ -1,70 +1,70 @@
 {
   "ru":[
     {
-      "name":"casinoa***",
-      "amount":"$7 186,03"
+      "name":"casinoaf****",
+      "amount":"$7 501,07"
     },
     {
-      "name":"lucky***",
+      "name":"seok***",
+      "amount":"$3 124,25"
+    },
+    {
+      "name":"furm****",
+      "amount":"$2 744,68"
+    },
+    {
+      "name":"casabl****",
+      "amount":"$1 702,01"
+    },
+    {
+      "name":"lucky*******",
       "amount":"$562,25"
     },
     {
       "name":"ara******",
-      "amount":"$437,95"
+      "amount":"$470,06"
     },
     {
       "name":"web****",
       "amount":"$428,39"
     },
     {
-      "name":"furm****",
-      "amount":"$244,12"
+      "name":"brun***",
+      "amount":"$392,03"
     },
-    {
-      "name":"xali***",
-      "amount":"$201,41"
-    },
-    {
-      "name":"casinop****",
-      "amount":"$140,67"
-    },
-    {
-      "name":"darl****",
-      "amount":"$77,32"
-    }
   ],
   "ua":[
+    {
+      "name":"casabl****",
+      "amount":"22"
+    },
+    {
+      "name":"dirty*****",
+      "amount":"19"
+    },
+    {
+      "name":"bounty****",
+      "amount":"15"
+    },
+    {
+      "name":"media****",
+      "amount":"11"
+    },
+    {
+      "name":"Peli****",
+      "amount":"3"
+    },
     {
       "name":"Dmon****",
       "amount":"2"
     },
     {
-      "name":"Peli****",
+      "name":"stavki****",
       "amount":"2"
     },
     {
       "name":"arbu***",
       "amount":"2"
     },
-    {
-      "name":"mobi***",
-      "amount":"1"
-    },
-    {
-      "name":"reyo*****",
-      "amount":"1"
-    },
-    {
-      "name":"deneg*****",
-      "amount":"1"
-    },
-    {
-      "name":"xalia***",
-      "amount":"1"
-    },
-    {
-      "name":"prom****",
-      "amount":"1"
-    }
   ]
 }
