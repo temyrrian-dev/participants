@@ -27,7 +27,7 @@
     {
       "name":"brun***",
       "amount":"$771,78"
-    }    
+    },    
     {
       "name":"lucky*******",
       "amount":"$562,25"
@@ -36,34 +36,34 @@
   "ua":[
     {
       "name":"casabl****",
-      "amount":"22"
+      "amount":"77"
     },
     {
       "name":"dirty*****",
-      "amount":"19"
+      "amount":"49"
     },
     {
       "name":"bounty****",
-      "amount":"15"
+      "amount":"26"
     },
     {
       "name":"media****",
-      "amount":"11"
-    },
-    {
-      "name":"Peli****",
-      "amount":"3"
-    },
-    {
-      "name":"Dmon****",
-      "amount":"2"
-    },
-    {
-      "name":"stavki****",
-      "amount":"2"
+      "amount":"23"
     },
     {
       "name":"arbu***",
+      "amount":"6"
+    },    
+    {
+      "name":"Peli****",
+      "amount":"4"
+    },
+    {
+      "name":"stavki****",
+      "amount":"3"
+    },    
+    {
+      "name":"Dmon****",
       "amount":"2"
     }
   ]
