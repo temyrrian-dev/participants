@@ -2,12 +2,20 @@
   "ru":[
     {
       "name":"casinoaf****",
-      "amount":"$7 501,07"
+      "amount":"$7 692,39"
+    },
+    {
+      "name":"3polo***",
+      "amount":"$7 652,58"
     },
     {
       "name":"seok***",
       "amount":"$3 124,25"
     },
+    {
+      "name":"web****",
+      "amount":"$3 089,25"
+    },    
     {
       "name":"furm****",
       "amount":"$2 744,68"
@@ -17,20 +25,12 @@
       "amount":"$1 702,01"
     },
     {
+      "name":"brun***",
+      "amount":"$771,78"
+    }    
+    {
       "name":"lucky*******",
       "amount":"$562,25"
-    },
-    {
-      "name":"ara******",
-      "amount":"$470,06"
-    },
-    {
-      "name":"web****",
-      "amount":"$428,39"
-    },
-    {
-      "name":"brun***",
-      "amount":"$392,03"
     }
   ],
   "ua":[
