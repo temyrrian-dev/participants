@@ -2,27 +2,27 @@
   "ru":[
     {
       "name":"sash***",
-      "amount":"115 007,38"
+      "amount":"123 095,23"
     },
+    {
+      "name":"seok***",
+      "amount":"$83 250,52"
+    },     
     {
       "name":"ara******",
       "amount":"$78 121,39"
-    },    
-    {
-      "name":"seok***",
-      "amount":"$76 455,41"
-    },    
+    },       
     {
       "name":"lucky*****",
       "amount":"$65 449,56"
     },
     {
       "name":"arxitek***",
-      "amount":"$50 321,12"
+      "amount":"$61 655,45"
     },
     {
       "name":"scroo********",
-      "amount":"$32 505,44"
+      "amount":"$41 330,25"
     },    
     {
       "name":"casinoaf****",
@@ -30,41 +30,41 @@
     },    
     {
       "name":"web****",
-      "amount":"$25 260,43"
+      "amount":"$28 799,67"
     }
   ],
   "ua":[
     {
       "name":"casabl****",
-      "amount":"707"
+      "amount":"731"
     },
     {
       "name":"dirty*****",
-      "amount":"632"
+      "amount":"668"
     },
     {
       "name":"orc****",
-      "amount":"353"
+      "amount":"373"
     },    
     {
       "name":"bounty****",
-      "amount":"329"
+      "amount":"333"
     },
     {
       "name":"media****",
-      "amount":"297"
+      "amount":"325"
     },    
     {
       "name":"bars****",
-      "amount":"281"
+      "amount":"307"
     }, 
     {
       "name":"04money*****",
-      "amount":"127"
+      "amount":"163"
     },
     {
       "name":"eva****",
-      "amount":"98"
+      "amount":"100"
     }
   ]
 }
